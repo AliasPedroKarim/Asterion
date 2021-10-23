@@ -1,0 +1,9 @@
+{
+    "verbose": false,
+    "ignore": [".git/*", "dist/*", "node_modules/**"],
+    "execMap": {
+        "js": "node dist/index.js"
+    },
+    "delay": 2000,
+    "ext": "ts,js,json"
+  }
